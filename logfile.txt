@@ -1,0 +1,42 @@
+*   commit 9ea92f744f746e247acc9efbb3d5c503d07ff114 (HEAD -> main, origin/main, origin/HEAD)
+|\  Merge: 9aad1d9 1454200
+| | Author: Andrew <andrewmiles0406@gmail.com>
+| | Date:   Mon Nov 3 14:59:27 2025 -0500
+| | 
+| |     Merge branch 'main' of github.com:sonialerner/lab12_group
+| | 
+| * commit 1454200726790cc92897f90824cd3427f5a5383f
+| | Author: Sonia Lerner <sonialerner@Sonias-MacBook-Air.local>
+| | Date:   Mon Nov 3 14:50:11 2025 -0500
+| | 
+| |     Finish the new footer [issue 53]
+| | 
+| * commit 75f6cc8010affa4e0482c5ea5c8ed9bc5095e305
+| | Author: Sonia Lerner <sonialerner@Sonias-MacBook-Air.local>
+| | Date:   Mon Nov 3 14:47:54 2025 -0500
+| | 
+| |     Create new footer [issue 53]
+| | 
+| * commit 63ca32665f14ae493f1059a3741837002da2e375
+| | Author: Sonia Lerner <sonialerner@Sonias-MacBook-Air.local>
+| | Date:   Mon Nov 3 14:37:50 2025 -0500
+| | 
+| |     Create new footer [issue 53]
+| | 
+| * commit e901f6bb7e699c31fb653db369f70e2ec48fdfe0
+| | Author: Sonia Lerner <sonialerner@Sonias-MacBook-Air.local>
+| | Date:   Mon Nov 3 14:25:50 2025 -0500
+| | 
+| |     changed message
+| | 
+* | commit 9aad1d927316e19fb06d5a33d6f10496a6a01e3f (andrewbranch)
+|/  Author: Andrew <andrewmiles0406@gmail.com>
+|   Date:   Mon Nov 3 14:42:06 2025 -0500
+|   
+|       Andrew branch
+| 
+* commit 8a481eae2bd239c9fb07d996b783a91e58636be5
+  Author: Andrew <andrewmiles0406@gmail.com>
+  Date:   Mon Nov 3 14:24:30 2025 -0500
+  
+      Hello world added
