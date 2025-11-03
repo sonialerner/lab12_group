@@ -1,5 +1,6 @@
 public class HelloWorld {
     public static void main() {
-        System.out.println("Hello world");
+        String message = "Hello" ;
+        System.out.println(message + " Sonia");
     }
 }
